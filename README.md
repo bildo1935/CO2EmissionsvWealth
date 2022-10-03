@@ -28,5 +28,6 @@ Any missing values are interpolated via `pandas.Series.interpolate(method='linea
 
 ## Construction of Data
 
+
 ## Evaluation
 As seen above, the data shows that the real GDP per capita far exceeds the per capita cost estimates of carbon emissions. However, one should not immediately jump at the conclusion that the wealth gained far exceeds the carbon-induced environmental costs and that current economic and environmental practices are optimal. This is for two reasons. Firstly, although the carbon tax pricing scheme used in this analysis is far higher than any current instances, the Carbon Pricing Coalition Leadership might have lowered their original numbers (i.e. ones more representative of actual cost to the environment) to increase adoption by countries which are more economic-driven. Secondly, the actual environmental cost of current economic practices are cannot merely be quantified based on the cost of carbon emissions. The actual aggregate cost would necessarily have to include the cost of CFC emissions, the cost of deforestation and the cost of marine pollution among other effects. When all the costs are summed up, the summed cost may very well exceed the value of created wealth.
